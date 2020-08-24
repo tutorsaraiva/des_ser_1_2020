@@ -5,5 +5,6 @@ using namespace std;
 int main(){
     cout << "Oi Mundo\n\n";
     cout << "Oi Araras\n\n";
+    cout << "Oi oioioioi\n";
     cout << "Oi Fatec\n\n";
 }
